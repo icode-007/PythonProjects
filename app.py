@@ -4,5 +4,5 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello from Azure App Service!"
+    return "Hello Titans - from Azure App Service!\n"
 
